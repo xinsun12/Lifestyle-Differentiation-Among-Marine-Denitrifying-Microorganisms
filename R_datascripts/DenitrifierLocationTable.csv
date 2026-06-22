@@ -1,0 +1,17 @@
+﻿AMALname,OMZ,lat,long,cruise,Station,cast,Location,depth,O2,NO3,NO2,NH4,urea,PO4
+AMAL1,Eastern Tropical North Pacific Ocean,18.689345,-104.416465,RonBrown,PS-S6,14,ETNP_PS6,53,16.37,23.88,0,11,,2.36
+AMAL2,Eastern Tropical North Pacific Ocean,18.689345,-104.416465,RonBrown,PS-S6,13,ETNP_PS6,120,1.08,22.9,4.3,11,,2.64
+AMAL3,Eastern Tropical North Pacific Ocean,18.689345,-104.416465,RonBrown,PS-S6,13,ETNP_PS6,200,1.2,22.88,2.71,11,,2.73
+AMAL5,Eastern Tropical North Pacific Ocean,17.206,-110.7114,RonBrown,14,35,ETNP_14,10,200.67,0,0,8,0.28,0.22
+AMAL7,Eastern Tropical North Pacific Ocean,17.206,-110.7114,RonBrown,14,PPS-17,ETNP_14,185,0.026,26.8,0.14,0.12,,
+AMAL8,Eastern Tropical North Pacific Ocean,17.206,-110.7114,RonBrown,14,PPS-17,ETNP_14,215,0.021,23.9,2.45,0.4,,
+AMAL9,Arabian Sea,15.15,64,KNOX009,2N,46,AS_2N,130,0.61,24.5,0.28,,,1.97
+AMAL10,Arabian Sea,15.15,64,KNOX009,2N,46,AS_2N,150,0.63,20.83,2.13,,,2.13
+AMAL11,Arabian Sea,15.15,64,KNOX009,2N,46,AS_2N,200,0.66,14.88,4.62,,,2.27
+AMAL12,Arabian Sea,15.15,64,KNOX009,2N,46,AS_2N,400,0.84,27.68,0.04,,,2.57
+AMAL13,Eastern Tropical North Pacific Ocean,16,-105,SR1805,PS2,32,ETNP_PS2,60,189,0,0.6, 6 - 40,,
+AMAL14,Eastern Tropical North Pacific Ocean,16,-105,SR1805,PS2,32,ETNP_PS2,95,0,24.6,0.06,10,,
+AMAL15,Eastern Tropical North Pacific Ocean,16,-105,SR1805,PS2,45,ETNP_PS2,200,0,22.7,1.5, 2 - 13,,
+AMAL17,Eastern Tropical North Pacific Ocean,18,-102,SR1805,PS3,71,ETNP_PS3,16,120,5.2,0.4, 11 - 400,,
+AMAL18,Eastern Tropical North Pacific Ocean,18,-102,SR1805,PS3,71,ETNP_PS3,45,0,26,0.19, 5 - 200,,
+AMAL20,Eastern Tropical North Pacific Ocean,18,-102,SR1805,PS3,84,ETNP_PS3,800,0,41.2,0,4,,

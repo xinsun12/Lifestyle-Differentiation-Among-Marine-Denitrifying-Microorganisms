@@ -12,4 +12,4 @@ This folder contains the chemostat model code and all files required to run the 
 
 ### `R_datascripts`
 
-This folder contains all R scripts and associated data files used for the estimation of the genome-based copiotrophic index for marine denitrifiers and the generation of all figures presented in the manuscript and supplementary materials.
+This folder contains all R scripts and associated data files used for the estimation of the genome-based copiotrophic index for marine denitrifiers and the generation of all figures presented in the manuscript and supplementary materials. Information on the isolate genomes, metagenome-assembled genomes (MAGs), and single-cell amplified genomes (SAGs) used in this study is provided in DenitrifierCopiotrophyTable.csv.
